@@ -14,7 +14,4 @@ many processes.
 
 The process scheduling algorithms are used to maximize CPU 
 utilization by increasing throughput. Our team have selected three types of process 
-scheduler to come up with a simulator. These types are:
-  -Non-Preemptive SJF
-  -Preemptive SJF
-  -Round Robin
+scheduler to come up with a simulator. These types are Non-Preemptive SJF, Preemptive SJF, and Round Robin.
